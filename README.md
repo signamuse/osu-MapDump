@@ -35,7 +35,9 @@ This is the order of when I tried to map each map.
 9. **6/21/2017** S.A.T.O.R.A.R.E.
 10. **7/4/2017** Fruit of the Dance Floor
 11. **7/15/2017** Speedrun
+
 **8/19/2017** *Started* [The Clockwork Rose](https://osu.ppy.sh/beatmapsets/810273#osu/1700066)
+
 12. **8/26/2017** Shoujo to Ougon Ryuu no Monogatari
 13. **9/3/2017** LegenD.
 14. **9/3/2017** Chocolate Girl
@@ -48,7 +50,9 @@ This is the order of when I tried to map each map.
 21. **2/9/2019** Reach for the Stars
 22. **4/6/2019** ChiruChiru
 23. **4/27/2019** AO~
+
 **8/8/2019** [Happier](https://osu.ppy.sh/beatmapsets/1016562#osu/2127657)
+
 24. **12/13/2019** CR Peculiar Worldview
 
 Also my favorite mapper is handsome, you can probably tell from my later maps
