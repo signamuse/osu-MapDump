@@ -1,3 +1,4 @@
+# 1
 Here's the first one.  It's been a long time since I started trying to use the editor.
 
 When I started osu!, I actually came from watching people play Project Diva F 2nd, so I wanted to play a rhythm game.
