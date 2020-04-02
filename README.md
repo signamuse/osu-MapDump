@@ -36,7 +36,7 @@ This is the order of when I tried to map each map.
 10. **7/4/2017** Fruit of the Dance Floor
 11. **7/15/2017** Speedrun
 
-**8/19/2017** *Started* [The Clockwork Rose](https://osu.ppy.sh/beatmapsets/810273#osu/1700066)
+**8/19/2017** *Started* [The Clockwork Rose](https://osu.ppy.sh/beatmapsets/810273#osu/1700066), I learned so much along the way
 
 12. **8/26/2017** Shoujo to Ougon Ryuu no Monogatari
 13. **9/3/2017** LegenD.
