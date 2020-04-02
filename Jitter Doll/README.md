@@ -1,3 +1,4 @@
+# 2
 I picked this song for obvious reasons stated in the first mapset README (I came from Project Diva and vocaloid culture). 
 I knew the mapset of [*First*](https://osu.ppy.sh/beatmapsets/171388#osu/467689) at the time, and I thought the song *Jitter Doll* sounded similar (it actually was the same producer).
 So I thought, why that mapset and not this one? (because Teto sounds garbage unless cillia tunes her and this song is actually rather slow)
