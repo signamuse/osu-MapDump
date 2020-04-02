@@ -56,3 +56,7 @@ This is the order of when I tried to map each map.
 24. **12/13/2019** CR Peculiar Worldview
 
 Also my favorite mapper is handsome, you can probably tell from my later maps
+
+If you have any questions or want some advice, feel free to message me in game any time.
+
+I am open to guest diff requests (if I accept), mapping advice, and playtests to maps :)
