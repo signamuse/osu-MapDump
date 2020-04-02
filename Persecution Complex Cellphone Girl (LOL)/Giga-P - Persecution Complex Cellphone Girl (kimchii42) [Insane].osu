@@ -1,0 +1,78 @@
+osu file format v14
+
+[General]
+AudioFilename: Persecution Complex Cellphone Girl (LOL).mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.3
+BeatDivisor: 8
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Persecution Complex Cellphone Girl
+TitleUnicode:Persecution Complex Cellphone Girl
+Artist:Giga-P
+ArtistUnicode:Giga-P
+Creator:kimchii42
+Version:Insane
+Source:
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:5.7
+CircleSize:4.3
+OverallDifficulty:6.5
+ApproachRate:9.3
+SliderMultiplier:1.59999990463257
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+90,454.550068233511,4,1,0,100,1,0
+
+
+[HitObjects]
+160,160,1908,5,0,0:0:0:0:
+352,256,2362,1,0,0:0:0:0:
+320,96,2817,2,0,P|256:160|256:192,2,119.999992847443
+142,243,3953,1,0,0:0:0:0:
+142,243,4180,1,0,0:0:0:0:
+286,66,4635,2,0,P|366:105|383:141,1,119.999992847443
+387,159,5317,5,0,0:0:0:0:
+256,288,5544,1,0,0:0:0:0:
+128,160,5999,1,0,0:0:0:0:
+256,32,6453,1,0,0:0:0:0:
+128,160,6794,1,0,0:0:0:0:
+256,288,7135,1,0,0:0:0:0:
+384,160,7590,2,0,P|320:96|320:96,1,79.9999952316285
+128,96,8271,1,0,0:0:0:0:
+128,96,8499,2,0,P|192:192|224:192,1,159.999990463257
+394,122,9181,6,0,P|338:98|304:95,1,79.9999952316285
+320,96,9521,1,0,0:0:0:0:
+320,96,9635,1,0,0:0:0:0:
+128,192,9862,2,0,P|128:224|160:256,1,79.9999952316285
+384,256,10431,1,0,0:0:0:0:
+352,64,10771,1,0,0:0:0:0:
+128,96,11226,2,0,P|192:160|192:160,1,79.9999952316285
+320,288,11908,1,0,0:0:0:0:
+352,160,12249,2,0,P|320:160|256:224,1,119.999992847443
+257,216,12817,1,0,0:0:0:0:
