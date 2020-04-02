@@ -1,0 +1,86 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks: 4449
+DistanceSpacing: 0.2
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 5.699997
+
+[Metadata]
+Title:rainbow archiver
+TitleUnicode:レインボー・アーカイバー
+Artist:paraoka
+ArtistUnicode:paraoka
+Creator:kimchii42
+Version:Spectrum
+Source:
+Tags:
+BeatmapID:0
+BeatmapSetID:2
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:3.9
+OverallDifficulty:8.4
+ApproachRate:9.5
+SliderMultiplier:1.8
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+4449,222.222222222222,4,1,0,60,1,0
+
+
+[HitObjects]
+347,36,4449,6,0,L|332:184,1,90
+319,253,4671,1,0,0:0:0:0:
+227,162,4782,1,0,0:0:0:0:
+432,224,4893,2,0,P|436:271|422:317,1,90,8|0,0:0|0:0,0:0:0:0:
+227,162,5115,1,0,0:0:0:0:
+432,24,5226,1,0,0:0:0:0:
+432,24,5282,1,0,0:0:0:0:
+432,24,5337,6,0,P|445:70|438:117,1,90
+319,253,5559,1,0,0:0:0:0:
+139,170,5671,2,0,P|185:156|232:163,1,90,0|8,0:0|0:0,0:0:0:0:
+319,253,5893,1,0,0:0:0:0:
+147,137,6004,2,0,P|193:123|240:130,1,90
+160,384,6226,5,0,0:0:0:0:
+196,218,6337,1,0,0:0:0:0:
+88,272,6449,1,0,0:0:0:0:
+256,286,6560,1,0,0:0:0:0:
+114,162,6671,2,0,P|69:157|27:171,1,90,8|0,0:0|0:0,0:0:0:0:
+88,272,6893,1,0,0:0:0:0:
+295,130,7004,1,0,0:0:0:0:
+295,130,7060,1,0,0:0:0:0:
+295,130,7115,6,0,P|300:85|286:43,1,90
+256,286,7337,2,0,P|292:312|335:321,1,90
+288,128,7560,1,8,0:0:0:0:
+141,175,7671,2,0,P|100:193|71:225,1,90
+177,327,7893,1,0,0:0:0:0:
+288,128,8004,6,0,P|328:112|376:128,1,90
+440,336,8226,1,0,0:0:0:0:
+452,192,8337,1,0,0:0:0:0:
+440,336,8448,2,0,P|400:352|352:336,1,90,8|0,0:0|0:0,0:0:0:0:
+288,128,8671,1,0,0:0:0:0:
+295,215,8782,1,0,0:0:0:0:
+136,88,8893,2,0,P|176:72|224:88,1,90
