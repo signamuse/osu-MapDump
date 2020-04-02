@@ -12,4 +12,6 @@ The hitsounding the way I did it was cancer and unnecessary, but it gave me joy.
 
 I was kind of proud of the improvement that I had, so this was actually the first map I uploaded to my profile, but I deleted it soon after since being a self-conscious person.
 
+There was a period where I thought I lost the map or something when I deleted it since I have 2 versions in my game where one is at 0 stars for some reason.  
+
 Last Updated: 4/2/2017
