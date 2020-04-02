@@ -24,8 +24,31 @@ Even if I started from the worst, I believe you can improve as much as I potenti
 
 This is the order of when I tried to map each map.
 
-1. Persecution Complex Cellphone Girl
-2. Jitter Doll
-3. Toluthin Antenna
+1. **2/6/2016** Persecution Complex Cellphone Girl
+2. **6/29/2016** Toluthin Antenna, **4/10/2017** Remap attempt
+3. **9/4/2016** Jitter Doll
+4. **11/25/2016** Oni Kyokan, **4/12/2017** Remap attempt
+5. **12/10/2016** Zetsubousei: Hero Chiryouyaku
+6. **1/26/2017** Area 01
+7. **3/5/2017** chrono diver -fragment-
+8. **5/31/2017** rainbow archiver
+9. **6/21/2017** S.A.T.O.R.A.R.E.
+10. **7/4/2017** Fruit of the Dance Floor
+11. **7/15/2017** Speedrun
+**8/19/2017** *Started* [The Clockwork Rose](https://osu.ppy.sh/beatmapsets/810273#osu/1700066)
+12. **8/26/2017** Shoujo to Ougon Ryuu no Monogatari
+13. **9/3/2017** LegenD.
+14. **9/3/2017** Chocolate Girl
+15. **9/4/2017** Mushi no Sumu Tokoro
+16. **9/14/2017** Kokorokirou Hayashi
+17. **2/18/2018** This is a Lovesong
+18. **8/5/2018** Before & After
+19. **10/7/2018** GHOST
+20. **1/19/2019** We Don't Talk Anymore
+21. **2/9/2019** Reach for the Stars
+22. **4/6/2019** ChiruChiru
+23. **4/27/2019** AO~
+**8/8/2019** [Happier](https://osu.ppy.sh/beatmapsets/1016562#osu/2127657)
+24. **12/13/2019** CR Peculiar Worldview
 
 Also my favorite mapper is handsome, you can probably tell from my later maps
