@@ -19,3 +19,5 @@ The chronological order of why I mapped things:
 Even if my maps are not the favorite of many or even of the best quality, I believe my maps may be worth something.
 
 Even if I started from the worst, I believe you can improve as much as I potentially have.  Exposure and practice are the best methods of learning this in my opinion.
+
+Also my favorite mapper is handsome, you can probably tell from my later maps
