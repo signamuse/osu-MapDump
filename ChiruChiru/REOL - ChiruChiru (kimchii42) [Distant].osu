@@ -1,0 +1,75 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.6
+BeatDivisor: 8
+GridSize: 16
+TimelineZoom: 2.7
+
+[Metadata]
+Title:ChiruChiru
+TitleUnicode:ChiruChiru
+Artist:REOL
+ArtistUnicode:REOL
+Creator:kimchii42
+Version:Distant
+Source:
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:6
+OverallDifficulty:8.5
+ApproachRate:9.5
+SliderMultiplier:2
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1290,468.75,4,1,0,100,1,0
+1994,468.75,4,1,0,100,1,0
+1994,-50,4,1,0,100,0,0
+3165,-66.6666666666667,4,1,0,100,0,0
+3634,-100,4,1,0,100,0,0
+4337,-66.6666666666667,4,1,0,100,0,0
+4806,-100,4,1,0,100,0,0
+5216,-100,4,1,0,5,0,0
+5275,-100,4,1,0,100,0,0
+
+
+[HitObjects]
+91,0,1290,5,0,0:0:0:0:
+113,5,1368,1,0,0:0:0:0:
+136,9,1446,1,0,0:0:0:0:
+159,13,1525,2,0,P|135:24|111:72,1,75
+112,73,1759,1,0,0:0:0:0:
+307,124,1994,6,0,P|312:86|279:141,1,200
+369,115,2462,1,0,0:0:0:0:
+369,115,2931,1,0,0:0:0:0:
+374,218,3165,2,0,P|401:207|351:206,1,150.000005722046
+334,307,3634,2,0,P|349:319|333:290,1,100
+123,351,4337,6,0,B|130:375|116:385|116:385|108:372|123:351,1,75.0000028610231
+142,240,4806,5,0,0:0:0:0:
+199,309,5040,2,0,P|211:303|186:302,1,75
+199,320,5275,2,0,P|220:311|179:310,1,125
